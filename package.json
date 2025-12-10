@@ -1,0 +1,23 @@
+{
+  "name": "android-library-test-tka-9308",
+  "version": "1.0.0",
+  "description": "Test repository for TKA-9308 React Native Gradle plugin resolution",
+  "private": true,
+  "scripts": {
+    "test": "echo \"No tests configured\""
+  },
+  "dependencies": {
+    "@react-native/gradle-plugin": "^0.74.0",
+    "react-native": "^0.74.0"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "react-native",
+    "android",
+    "gradle",
+    "test",
+    "TKA-9308"
+  ],
+  "author": "",
+  "license": "MIT"
+}
